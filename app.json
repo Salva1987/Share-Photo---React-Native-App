@@ -1,0 +1,16 @@
+{
+    "expo": {
+        "name": "FirstRNapp",
+        "slug": "FirstRNapp",
+        "version": "1.0.0",
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#000000"
+        }
+    },
+    "name": "FirstRNapp"
+}
